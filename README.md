@@ -25,7 +25,6 @@ The dashboard layout includes:
 
 ![Dashboard Screenshot](https://github.com/hasinii12/Task4-Elevate-labs/raw/main/Screenshot%202025-08-07%20145735.png)
 
-*(Ensure this path points to the raw image link so it displays properly in GitHub.)*
 
 ---
 
